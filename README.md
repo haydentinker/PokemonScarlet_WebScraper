@@ -1,0 +1,2 @@
+# PokemonScarlet_WebScraper
+ 
